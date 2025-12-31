@@ -90,7 +90,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/piyushtripathi9424">
                     <img src="https://avatars.githubusercontent.com/u/243800511?v=4" width="100px;"
-                        alt="Piyush Tripathi" />
+                        alt="Piyush Tripathi Ji" />
                     <br />
                     <sub>
                         <b>Piyush Tripathi</b>
